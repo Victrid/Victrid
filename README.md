@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hi there :wave:
 
-I'm **victrid**.
-- :construction_worker: I'm currently a junior student major in Computer Science at Shanghai Jiao Tong University.
-- 🌱 I’m currently learning Machine Learning and Frontend tech.
+I'm **Victrid**.
+- :mortar_board: I'm currently a 1st year Ph.D. student at Shanghai Jiao Tong University after receiving B.Eng. (Hons) from the same school.
+- :microscope: My research interests include optimizing data center networks, and network simulation/emulation.
